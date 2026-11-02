@@ -1,0 +1,12 @@
+# Local reading material and generated reviews do not belong in the skill package.
+/papers/
+/reviews/
+
+# Local environment and editor files.
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
